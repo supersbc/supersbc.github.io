@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Junwei Zhou | 周俊伟"
+title: "Bocong Sun"
 title_separator          : "-"
-name                     : &name "Junwei Zhou (周俊伟)" # "Your Name"
-description              : &description "Junwei Zhou's research homepage: AI for system and software security, coding, compression, and vision."
-url                      : "https://junwzhou.github.io" # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name: "Bocong Sun 孙伯聪"
+description: "AIOps / Log Anomaly Detection"
+url: https://supersbc.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "junwzhou/junwzhou.github.io" # "academicpages/academicpages.github.io"
+repository: supersbc/supersbc.github.io
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -67,11 +67,9 @@ og_image                 : "social-card.png"
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : Person
-  name                   : "Junwei Zhou"
+  name                   : "Bocong Sun"
   links:
-    - "https://github.com/junwzhou"
-    - "https://orcid.org/0000-0002-6094-1203"
-    - "https://scholar.google.com.hk/citations?user=ERgncpoAAAAJ&hl=en"
+  
 
 
 # Analytics
@@ -84,14 +82,14 @@ analytics:
 
 # Site Author
 author:
-  name             : Junwei Zhou # "Your Sidebar Name"
+  name             : Bocong Sun # "Your Sidebar Name"
   avatar           : "profile.jpg"
-  bio              : Professor & Doctoral Supervisor, WHUT
+  bio              : student 
   location         : "Wuhan" # "Location"
-  employer         : "Wuhan University of Technology"
+  employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com.hk/citations?user=ERgncpoAAAAJ&hl=zh-CN&oi=ao"
-  email            : "junweizhou@whut.edu.cn"
+  googlescholar    : 
+  email            : 
   # researchgate     : "https://www.researchgate.net/profile/Junjie-Liu-5" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -100,7 +98,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "junwzhou" # "academicpages"
+  github           : "supersbc" # "academicpages"
   google_plus      :
   keybase          :
   instagram        :
